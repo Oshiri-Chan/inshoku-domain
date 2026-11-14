@@ -1,0 +1,11 @@
+# ビルド成果物・エディタ設定
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+node_modules/
+
+# 個人用のメモ（公開しない）
+private/

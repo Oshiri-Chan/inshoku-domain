@@ -1,0 +1,6 @@
+# 改行コードを LF に統一する（Windows/Mac/Linux で差分を出さない）
+* text=auto eol=lf
+
+# Markdown とライセンスは明示
+*.md text eol=lf
+LICENSE text eol=lf
