@@ -87,7 +87,7 @@
 
 ```
 飲食店経営のドメイン知識 (inshoku-domain contributors, CC BY 4.0)
-https://github.com/<owner>/inshoku-domain
+https://github.com/Oshiri-Chan/inshoku-domain
 ```
 
 著作権者: inshoku-domain contributors（2026）
