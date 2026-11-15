@@ -93,8 +93,8 @@
 | 改善措置 | 基準を外れたらどうするか |
 | 記録方法 | どこに残すか |
 
-→ [第6章: 衛生管理とHACCP](../docs/06-eisei-haccp.md)
+→ [第12章: 衛生管理とHACCP](../docs/12-eisei-haccp.md)
 
 ---
 
-[目次に戻る](../README.md) ｜ [第6章: 衛生管理とHACCP](../docs/06-eisei-haccp.md)
+[目次に戻る](../README.md) ｜ [第12章: 衛生管理とHACCP](../docs/12-eisei-haccp.md)

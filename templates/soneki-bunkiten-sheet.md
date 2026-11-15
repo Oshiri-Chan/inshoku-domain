@@ -53,4 +53,4 @@
 
 ---
 
-[目次に戻る](../README.md) ｜ [第4章: 損益分岐点とキャッシュフロー](../docs/04-soneki-bunkiten-cashflow.md)
+[目次に戻る](../README.md) ｜ [第6章: 損益分岐点](../docs/06-soneki-bunkiten.md)

@@ -81,4 +81,4 @@
 
 ---
 
-[目次に戻る](../README.md) ｜ [第9章: 仕入れ・在庫・食品ロス・メニュー設計](../docs/09-shiire-zaiko-loss.md)
+[目次に戻る](../README.md) ｜ [第16章: 仕入れと在庫管理](../docs/16-shiire-zaiko.md)
